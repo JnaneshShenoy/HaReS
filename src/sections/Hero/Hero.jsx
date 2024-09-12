@@ -13,7 +13,7 @@ function Hero() {
   const navigate = useNavigate();
 
   const handleClick = () => {
-    navigate("/product-page");
+    navigate("/hairstyle-page");
   };
 
   return (
